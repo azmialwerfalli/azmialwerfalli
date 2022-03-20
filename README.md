@@ -7,4 +7,4 @@
 -  i know i'm learning old lanuages but i hope for it to open new Horizons
 
 
- got here to know more about programming.
+got here to share love and Postive Energy 🍭
