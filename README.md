@@ -4,8 +4,7 @@
 - 25 yo Graphic Designer, like to merge my small knowledge on UI design with programming
 - 
 - 🌱 I’m currently learning, Vb.net, SQL server for Desktop Applications
--  i know i'm learning old lanuages but 
--  i got some free resource's to learn from ☝️
+-  i know i'm learning old lanuages but i hope for it to open new Horizons
 
 
  got here to know more about programming.
