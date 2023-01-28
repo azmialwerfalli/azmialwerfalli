@@ -1,4 +1,4 @@
-### hey there 
+## Hey There 👋
 <a href="https://www.instagram.com/azmi_elfoghi/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -35,7 +35,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Javascript   26 hrs 22 mins  ███████████████████████▓░   94.80 %
+Javascript   22 hrs 10 mins  ██████████████████████▓▒░   94.80 %
 CSS          1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
 INI          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 JSON         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
