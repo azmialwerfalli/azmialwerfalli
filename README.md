@@ -34,6 +34,15 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
+```text
+From: 27 January 2023 - To: 28 January 2023
+
+Total Time: 1 hr 36 mins
+
+Vue.js       44 mins         >>>>>>>>>>>>-------------   46.28 %
+JavaScript   36 mins         >>>>>>>>>----------------   37.77 %
+HTML         15 mins         >>>>---------------------   15.96 %
+```
 
 <!--END_SECTION:waka-->
 
