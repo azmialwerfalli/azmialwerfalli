@@ -50,7 +50,7 @@ Other        8 mins          -------------------------   01.44 %
 <!--END_SECTION:waka-->
 
 
-🚧 **my Notion stats:**
+🚧 **my stats:**
 <!-- TODO-IST:START -->
 🏆  00 Points           
 🌸  Completed 00 tasks today           
