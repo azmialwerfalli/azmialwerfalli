@@ -52,10 +52,10 @@ Other        8 mins          -------------------------   01.44 %
 
 🚧 **my Notion stats:**
 <!-- TODO-IST:START -->
-🏆  00 Karma Points           
-🌸  Completed 03 tasks today           
-✅  Completed 03 tasks so far           
-⏳  Longest streak is 1 days
+🏆  00 Points           
+🌸  Completed 00 tasks today           
+✅  Completed 00 tasks so far           
+⏳  Longest streak is 00 days
 <!-- TODO-IST:END -->
 
 
