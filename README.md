@@ -35,16 +35,16 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 January 2023 - To: 13 February 2023
+From: 27 January 2023 - To: 14 February 2023
 
-Total Time: 32 hrs 22 mins
+Total Time: 32 hrs 33 mins
 
-Vue.js       8 hrs 50 mins   >>>>>>>------------------   27.32 %
-CSS          6 hrs 58 mins   >>>>>--------------------   21.54 %
-JavaScript   4 hrs 23 mins   >>>----------------------   13.58 %
-TypeScript   3 hrs 29 mins   >>>----------------------   10.80 %
-CSHTML       3 hrs 8 mins    >>-----------------------   09.72 %
-HTML         2 hrs 35 mins   >>-----------------------   08.02 %
+Vue.js       9 hrs 1 min     >>>>>>>------------------   27.72 %
+CSS          6 hrs 58 mins   >>>>>--------------------   21.42 %
+JavaScript   4 hrs 23 mins   >>>----------------------   13.51 %
+TypeScript   3 hrs 29 mins   >>>----------------------   10.74 %
+CSHTML       3 hrs 8 mins    >>-----------------------   09.67 %
+HTML         2 hrs 35 mins   >>-----------------------   07.98 %
 ```
 
 <!--END_SECTION:waka-->
