@@ -34,8 +34,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
-```text
-From: 27 January 2023 - To: 31 May 2023
+```txt
+From: 27 January 2023 - To: 01 June 2023
 
 Total Time: 44 hrs 9 mins
 
