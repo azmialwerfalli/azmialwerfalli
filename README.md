@@ -1,12 +1,12 @@
 ## Hey There 👋
 <a href="https://www.instagram.com/azmi_elfoghi/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Azmi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/4NHrjP9e">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Azmi's Discord" width="22px" src="https://github.com/devicons/devicon/blob/master/docs/assets/css/discord-logo.svg" />
 </a>
 <a href="https://www.linkedin.com/in/azmi-alwerfalli-3b393575/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Azmi's LinkedIN" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=azmialwerfalli.azmialwerfalli)
@@ -23,7 +23,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vscode/vscode.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -47,16 +47,6 @@ TypeScript   3 hrs 29 mins   >>-----------------------   07.92 %
 ```
 
 <!--END_SECTION:waka-->
-
-
-🚧 **my stats:**
-<!-- TODO-IST:START -->
-🏆  00 Points           
-🌸  Completed 00 tasks today           
-✅  Completed 00 tasks so far           
-⏳  Longest streak is 00 days
-<!-- TODO-IST:END -->
-
 
 
 
