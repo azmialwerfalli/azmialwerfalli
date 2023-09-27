@@ -35,7 +35,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2023 - To: 24 September 2023
+From: 27 January 2023 - To: 25 September 2023
 
 Total Time: 44 hrs 9 mins
 
